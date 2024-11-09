@@ -5,5 +5,6 @@ The model is built using the Gemma Causal Language Model (GemmaCausalLM), with a
 
 This fine-tuned model is designed to generate accurate and contextually relevant answers to user queries, making it useful in medical or healthcare chatbot systems. LoRA (Low-Rank Adaptation) was applied during training to reduce the number of trainable parameters, improving efficiency without losing performance.
 
-Usage
+Usage:
+
 The model can be used in applications requiring real-time medical question-answering, such as medical chatbots, clinical support systems, or educational tools.
